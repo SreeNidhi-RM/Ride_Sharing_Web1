@@ -32,6 +32,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/rideshare-react.git
 cd rideshare-react
+
 ### Screenshots
 
 <img width="1897" height="767" alt="Image" src="https://github.com/user-attachments/assets/89e87953-b8ae-48bf-a9c7-da92068bc074" />
